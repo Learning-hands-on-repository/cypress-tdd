@@ -1,4 +1,5 @@
-[![unit-lint-typecheck-e2e-ct](https://github.com/muratkeremozcan/react-cypress-ts-template/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/muratkeremozcan/react-cypress-ts-template/actions/workflows/main.yml) ![cypress version](https://img.shields.io/badge/cypress-13.16.1-brightgreen)
+[![unit-lint-typecheck-e2e-ct](https://github.com/muratkeremozcan/react-cypress-ts-template/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/muratkeremozcan/react-cypress-ts-template/actions/workflows/main.yml)
+![cypress version](https://img.shields.io/badge/cypress-13.16.1-brightgreen)
 ![react version](https://img.shields.io/badge/react-19.0.0-brightgreen)
 ![react-scripts version](https://img.shields.io/badge/react--scripts-5.0.1-brightgreen)
 ![cypress version](https://img.shields.io/badge/cypress-11-brightgreen)

@@ -20,6 +20,7 @@
     "cy:run-ct-fast": "yarn cy:run-ct --config video=false screenshot=false"
   },
   "dependencies": {
+    "bulma": "^1.0.2",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-scripts": "5.0.1",
@@ -50,6 +51,7 @@
     "jest": "27.5.1",
     "jest-environment-jsdom": "27.5.1",
     "lint-staged": "15.2.11",
+    "node-sass": "^9.0.0",
     "npm-run-all2": "7.0.1",
     "prettier": "2.8.8",
     "start-server-and-test": "2.0.9",
